@@ -7,4 +7,4 @@ This is the repository for the course project for 11785-Introduction to Deep Lea
 - FullSubNet/FullSubNet_Inference.ipynb : Run inference on noisy audio files using FullSubNet model
 - FullSubNet/11785_S23_FullSubNet_Training_Example.ipynb : Train or fine tune FullSubNet models
 - Demucs/11785_S23_Demucs_Training_and_Inference.ipynb : Train/fine tune and run inference on Demucs models
-
+More details on Demucs training and denoising can be found https://github.com/YunyangZeng/TAPLoss/tree/master/Demucs/denoiser
